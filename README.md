@@ -1,5 +1,6 @@
 # Conway's Game of Life Simulation
 **Maker:** Kavya Chowti & Shamiya Lin
+
 **University of Texas at Austin Machine Learning and Data Science Club Long Competition Placement:** 3rd Place
 
 ## Agents
